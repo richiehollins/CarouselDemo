@@ -13,8 +13,7 @@ Time spent: `Roughly 6 hours over the course of 3 days`
   - [x] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
   - [x] User sees an error alert when no email is present or no password is present.
   - [x] User sees a loading screen upon tapping the Sign In button.
-  - [ ] ```alertView.dismissWithClickedButtonIndex(0, animated: true)``` dismisses the loading screen with no buttons.
-> *I don't remember seeing anything in the documentation about that bit of code?*
+  - [ ] ```alertView.dismissWithClickedButtonIndex(0, animated: true)``` dismisses the loading screen with no buttons. **_I don't remember seeing anything in the documentation about that bit of code?_**
   - [x] User sees an error alert when entering the wrong email/password combination.
   - [x] User is taken to the tutorial screens upon entering the correct email/password combination.
 - [x] Tutorial Screens.
@@ -43,8 +42,7 @@ Time spent: `Roughly 6 hours over the course of 3 days`
 - [x] Tutorial Screens.
   - [x] User can page between the screens with updated dots.
   - [x] Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
-- [ ] Learn more about Carousel.
-> *I don't remember seeing anything about this in the assignment documentation either.*
+- [ ] Learn more about Carousel. **_I don't remember seeing anything about this in the assignment documentation either._**
   - [ ] Show the "Learn more about Carousel" button in the photo timeline.
   - [ ] Tap the X to dismiss the banner.
   - [ ] Track the 3 events:
