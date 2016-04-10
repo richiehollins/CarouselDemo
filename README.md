@@ -42,7 +42,7 @@ Time spent: `Roughly 6 hours over the course of 3 days`
 - [x] Tutorial Screens.
   - [x] User can page between the screens with updated dots.
   - [x] Upon reaching the 4th page, hide the dots and show the "Take Carousel for a Spin" button.
-- [ ] Learn more about Carousel. **_I don't remember seeing anything about this in the assignment documentation either._**
+- [ ] Learn more about Carousel.
   - [ ] Show the "Learn more about Carousel" button in the photo timeline.
   - [ ] Tap the X to dismiss the banner.
   - [ ] Track the 3 events:
